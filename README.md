@@ -7,12 +7,12 @@ has far more features. Besides searching, it offers hotkeys, keywords, text expa
 
 This workflow lets you quickly switch or create profiles in Desktop Composer — right from Alfred.
 
-## Applying a Profiles (Theme)
+## Applying a Profile (Theme)
 ```
 dc set [profile-name]
 ```
 
-## Creating New profiles
+## Creating New Profiles
 ```
 dc new [profile-name]
 ```
