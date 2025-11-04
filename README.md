@@ -4,7 +4,6 @@
 
 [Alfred](https://www.alfredapp.com) is a powerful app that looks like Spotlight but
 has far more features. Besides searching, it offers hotkeys, keywords, text expansions and more.
-It can be easily integrated with other apps and now it's integrated with SideNotes, as well.
 
 This workflow lets you quickly switch or create profiles in Desktop Composer — right from Alfred.
 
